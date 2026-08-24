@@ -1,8 +1,6 @@
 # Battle Arena | 	PWIA_P12
 
-Final project made by Aaron Fort Garcia, Yemma Gebra Berenguer and Marcos Ruiz-Flores Vicente.
-
-Link to the GitHub Repository: https://github.com/AaronFortG/ProjWeb1.git
+Final project made by Aaron Fort Garcia, Gemma Yebra Berenguer and Marcos Ruiz-Flores Vicente.
 
 ## Recommended IDE Setup
 
